@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mbkProgrammer/test-cis/static/css/main.def6ce17.css",
+    "main.js": "/mbkProgrammer/test-cis/static/js/main.0625aaec.js",
+    "static/media/animation.mp4": "/mbkProgrammer/test-cis/static/media/animation.de886f48a8d1824e8e3c.mp4",
+    "static/media/neoncity.jpg": "/mbkProgrammer/test-cis/static/media/neoncity.d7d9243cac761a72921a.jpg",
+    "static/media/Yekan.ttf": "/mbkProgrammer/test-cis/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
+    "index.html": "/mbkProgrammer/test-cis/index.html",
+    "main.def6ce17.css.map": "/mbkProgrammer/test-cis/static/css/main.def6ce17.css.map",
+    "main.0625aaec.js.map": "/mbkProgrammer/test-cis/static/js/main.0625aaec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def6ce17.css",
+    "static/js/main.0625aaec.js"
+  ]
+}
