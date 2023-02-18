@@ -165,3 +165,64 @@ header {
 .back__button:hover {
   transform: rotate(360deg);
 }
+
+#uiappp {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#teams {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#teams ul {
+  
+}
+#teams ul li {
+  direction: rtl;
+  color: #fafafa;
+  line-height: 2.3rem;
+  font-size: 1.2rem;
+  text-align: start;
+}
+
+.teams__tittle {
+  color: #fafafa;
+  font-weight: 600;
+  margin-bottom: 5px;
+  font-size: 1.8rem;
+}
+
+.place1 {
+  background-image: url("../public/assets/thumbnail.png");
+}
+
+.screen__container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 30px 0;
+}
+
+.screen__item {
+  width: fit-content;
+  height: 400px;
+  border-radius: 16px;
+  padding: 10px;
+}
+
+.screen__item:nth-child(2) , .screen__item:nth-child(4) {
+  height: 350px;
+}
+.screen__item:nth-child(1) , .screen__item:nth-child(5) {
+  height: 300px;
+}
